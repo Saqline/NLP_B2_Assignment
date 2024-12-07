@@ -1,0 +1,21 @@
+1) Could you please do apply some EDA Techniques with plot in this comments
+
+2) Apply any cleaning techniques if we need?
+
+3) Visualize word cloud
+
+4) Visualize most frequent words with their numbers
+
+5) Do you think - dataset has some problems? If yes-please improve
+
+6) Build a sentiment analysis model using LSTM, DENSE, SVM, LOGISTIC, NAIVE BAYES, RANDOM FOREST. Compare their Results.
+
+7) Build a Sentiment Analysis Chatbot - If i input comment the chatbot response the sentiment
+
+8) Build another chatbot that will explain the reason of a particular sentiment. For example: If chatbot response this is a positive comments - then chatbot also replies about the reason behind this sentiment- USE various LLM Techniques & Compare. 
+
+9) Build a language translation chatbot using various LLM Techniques If I give the comments as input and I also provide the language of response. for example if I select English as response it will response in english language. If I select english and China - the chatbot will answer in both languages
+
+10) Could you please study about different types of fine tuning in LLM and How does they work?Make a ppt for them
+
+11) Make a report of task 1 to task 9 in Overleaf with proper figures and results.
